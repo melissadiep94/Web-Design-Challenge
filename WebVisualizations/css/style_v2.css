@@ -5,4 +5,11 @@ font-size: 18px;
 p {
     font-size: 14px; 
     font-weight: bold; 
-}
+} 
+
+a.nav-link {
+    font-size: 14px;
+    font-weight: bold; 
+    color: darkslategray
+  
+  }
